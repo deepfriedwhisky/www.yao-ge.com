@@ -9,3 +9,5 @@ redirect_from:
 ---
 
 Hello World! This is Yao Ge's Personal Website.
+
+A new line.
