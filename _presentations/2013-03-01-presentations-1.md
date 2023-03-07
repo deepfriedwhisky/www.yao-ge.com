@@ -1,7 +1,7 @@
 ---
 title: "Tutorial 1 on Relevant Topic in Your Field"
 collection: presentations
-type: "Presentations"
+type: "Presentation"
 permalink: /presentations/2013-03-01-tutorial-1
 venue: "UC-Berkeley Institute for Testing Science"
 date: 2013-03-01
