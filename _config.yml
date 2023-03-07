@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Yao Ge's Personal Page"
+title                    : "Yao Ge"
 title_separator          : "-"
 name                     : &name "Yao Ge"
 description              : &description "personal description"
