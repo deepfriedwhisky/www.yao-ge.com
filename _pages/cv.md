@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/paper1.pdf" width="100%" height="100%">
+<iframe src="/files/paper1.pdf" width="100%" height="1122px">
     </iframe>
