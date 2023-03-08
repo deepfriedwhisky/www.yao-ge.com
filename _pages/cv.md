@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-<iframe src="/files/paper1.pdf" width="100%" height="1122px">
+<div style="position:relative; width:100%; height:0px; padding-bottom:141.4%;">
+    <iframe style="position:absolute; left:0; top:0; width:100%; height:100%"
+        src="/files/paper1.pdf">
     </iframe>
+</div>
