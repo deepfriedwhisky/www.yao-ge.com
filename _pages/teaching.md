@@ -3,9 +3,7 @@ permalink: /teaching
 title: "Teaching"
 excerpt: "Teaching"
 author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.html
+
 ---
 ### Laboratory Facilitator, <a href="http://www.drps.ed.ac.uk/19-20/dpt/cxchem08020.htm">Environmental Chemistry 2</a>
 <em>Undergraduate Course, School of Chemistry, University of Edinburgh, 2020.1 - 2022.4</em><br>
