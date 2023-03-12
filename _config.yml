@@ -178,9 +178,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  presentations:
-    output: true
-    permalink: /:collection/:path/
+  # presentations:
+  #   output: true
+  #   permalink: /:collection/:path/
   # publications:
   #   output: true
   #   permalink: /:collection/:path/
@@ -225,13 +225,13 @@ defaults:
       share: true
       comment: true
   # _presentations
-  - scope:
-      path: ""
-      type: presentations
-    values:
-      layout: presentation
-      author_profile: true
-      share: true
+  # - scope:
+  #     path: ""
+  #     type: presentations
+  #   values:
+  #     layout: presentation
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
