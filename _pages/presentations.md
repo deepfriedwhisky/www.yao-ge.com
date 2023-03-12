@@ -18,7 +18,7 @@ More information here: <a href="https://doi.org/10.5194/egusphere-egu22-9797"> h
 ### <em>Global EMEP modelling of atmospheric reactive nitrogen and sulfur species</em>
 <em>22 April 2022, MET Norway KL seminar, Oslo</em>
 
-### Joint presentations during Trustee visit to UKCEH Edinburgh, 
+### Joint presentations during Trustee visit to UKCEH Edinburgh
 <em>24 March 2022, Edinburgh</em>
 
 ### Regular MACAQUE Group Meetings
