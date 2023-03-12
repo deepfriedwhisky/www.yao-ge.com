@@ -11,7 +11,7 @@ author_profile: true
 
 {% endif %}
 ### <em>A new assessment of global and regional budgets, fluxes and lifetimes of atmospheric reactive N and S gases and aerosols</em>
-<em>May 23, 2022, EGU General Assembly 2022, Vienna</em>
+<em>May 23, 2022, EGU General Assembly 2022, Vienna</em><br>
 More information here: <a href="https://doi.org/10.5194/egusphere-egu22-9797"> https://doi.org/10.5194/egusphere-egu22-9797</a>
 
 
@@ -25,7 +25,7 @@ More information here: <a href="https://doi.org/10.5194/egusphere-egu22-9797"> h
 <em>2019.9 - 2022.9, Edinburgh</em>
 
 ### The 26th  Symposium on Chemistry Postgraduate Research in Hong Kong
-<em>4 May 2019, The Chinese University of Hong Kong, Hong Kong</em>
+<em>4 May 2019, The Chinese University of Hong Kong, Hong Kong</em><br>
 <a href="/files/26CUHK_poster.pdf"> Download presentation poster</a>
 
 ### The 25th  Symposium on Chemistry Postgraduate Research in Hong Kong
