@@ -1,7 +1,7 @@
 ---
 title: "Global sensitivities of reactive N and S gas and particle concentrations and deposition to precursor emissions reductions"
 collection: publications
-permalink: /publication/105194-acp-2022-657
+permalink: /publication/105194
 excerpt: 
 date:
 venue: 'Journal 1'
