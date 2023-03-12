@@ -18,4 +18,4 @@ As a teaching assistant in this course, my responsibilities included giving tuto
 
 ### Supervising Assistant
 <em>Undergraduate and Postgraduate students, School of Chemistry, 2020.9 – 2022.7</em><br>
-In the School of Chemistry, I assisted my principal supervisor, Prof. Matthew Heal, in supervising BSc and MSc students who conducted their dissertation projects in our research group. My responsibilities included providing guidance and technical support to the students throughout their projects.
+In the School of Chemistry, I assisted my principal supervisor, Prof. Mathew Heal, in supervising BSc and MSc students who conducted their dissertation projects in our research group. My responsibilities included providing guidance and technical support to the students throughout their projects.
