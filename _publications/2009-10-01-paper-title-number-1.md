@@ -3,7 +3,7 @@ title: "Global sensitivities of reactive N and S gas and particle concentrations
 collection: publications
 permalink: /publication/105194-acp-2022-657
 excerpt: 
-date: "forthcoming"
+date:
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
