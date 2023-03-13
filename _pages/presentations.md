@@ -29,7 +29,7 @@ More information here: <a href="https://doi.org/10.5194/egusphere-egu22-9797"> h
 <a href="/files/26CUHK_poster.pdf"> Download presentation poster</a>
 
 ### The 25th  Symposium on Chemistry Postgraduate Research in Hong Kong
-<em> The 28 April 2018, The Hong Kong University of Science and Technology</em>
+<em> The 28 April 2018, The Hong Kong University of Science and Technology, Hong Kong</em>
 
 <!-- {% for post in site.presentations reversed %}
   {% include archive-single-presentation.html %}
