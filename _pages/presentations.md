@@ -27,14 +27,14 @@ More information here: <a href="https://doi.org/10.5194/egusphere-egu22-9797"> h
 <em>24 March 2022, Edinburgh</em>
 
 ### Regular MACAQUE Group Meetings
-<em>2019.9 - 2022.9, Edinburgh</em>
+<em>Sept 2019 - Sept 2022, Edinburgh</em>
 
 ### The 26th  Symposium on Chemistry Postgraduate Research in Hong Kong
 <em>4 May 2019, The Chinese University of Hong Kong, Hong Kong</em><br>
 <a href="/files/26CUHK_poster.pdf"> Download presentation poster</a>
 
 ### The 25th  Symposium on Chemistry Postgraduate Research in Hong Kong
-<em> 28 April 2018, The Hong Kong University of Science and Technology, Hong Kong</em>
+<em> 28 April 2018, Hong Kong University of Science and Technology, Hong Kong</em>
 
 <!-- {% for post in site.presentations reversed %}
   {% include archive-single-presentation.html %}
