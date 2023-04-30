@@ -10,8 +10,13 @@ author_profile: true
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
 
 {% endif %}
+
+### <em>An alkaline world: a new assessment of the global chemical climate for PM2.5 formation and nitrogen and sulphur deposition</em>
+<em>31 March 2023, Department Seminar, Hong Kong University of Science and Technology, Hong Kong</em><br>
+<a href="/files/HKUST_ENVR_Seminar_announcement.pdf"> Download abstract</a>
+
 ### <em>A new assessment of global and regional budgets, fluxes and lifetimes of atmospheric reactive N and S gases and aerosols</em>
-<em>May 23, 2022, EGU General Assembly 2022, Vienna</em><br>
+<em>23 May 2022, EGU General Assembly 2022, Vienna</em><br>
 More information here: <a href="https://doi.org/10.5194/egusphere-egu22-9797"> https://doi.org/10.5194/egusphere-egu22-9797</a>
 
 
@@ -29,7 +34,7 @@ More information here: <a href="https://doi.org/10.5194/egusphere-egu22-9797"> h
 <a href="/files/26CUHK_poster.pdf"> Download presentation poster</a>
 
 ### The 25th  Symposium on Chemistry Postgraduate Research in Hong Kong
-<em> The 28 April 2018, The Hong Kong University of Science and Technology, Hong Kong</em>
+<em> 28 April 2018, The Hong Kong University of Science and Technology, Hong Kong</em>
 
 <!-- {% for post in site.presentations reversed %}
   {% include archive-single-presentation.html %}
