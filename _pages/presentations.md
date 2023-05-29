@@ -11,12 +11,15 @@ author_profile: true
 
 {% endif %}
 
+### <em>Modelling of atmospheric volatile organic compounds using the EMEP MSC-W model</em>
+<em>10-12 May 2023, Oral presentation, 24th EMEP Task Force on Measurement and Modelling Meeting, Warsaw</em><br>
+
 ### <em>An alkaline world: a new assessment of the global chemical climate for PM2.5 formation and nitrogen and sulphur deposition</em>
 <em>31 March 2023, Department Seminar, Hong Kong University of Science and Technology, Hong Kong</em><br>
 <a href="/files/HKUST_ENVR_Seminar_announcement.pdf"> Download abstract</a>
 
 ### <em>A new assessment of global and regional budgets, fluxes and lifetimes of atmospheric reactive N and S gases and aerosols</em>
-<em>23 May 2022, EGU General Assembly 2022, Vienna</em><br>
+<em>23 May 2022, Oral Presentation, EGU General Assembly 2022, Vienna</em><br>
 More information here: <a href="https://doi.org/10.5194/egusphere-egu22-9797"> https://doi.org/10.5194/egusphere-egu22-9797</a>
 
 
