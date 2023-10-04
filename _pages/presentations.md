@@ -11,6 +11,9 @@ author_profile: true
 
 {% endif %}
 
+### <em>NMVOC: EMEP network measurements and 2022 campaign data - comparison to the EMEP MSC- W model</em>
+<em>18 September 2023, Oral presentation, ACTRIS-Norway annual meeting, Oslo</em><br>
+
 ### <em>Modelling of atmospheric volatile organic compounds using the EMEP MSC-W model</em>
 <em>10-12 May 2023, Oral presentation, 24th EMEP Task Force on Measurement and Modelling Meeting, Warsaw</em><br>
 
