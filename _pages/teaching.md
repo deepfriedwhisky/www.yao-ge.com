@@ -19,3 +19,15 @@ As a teaching assistant in this course, my responsibilities included giving tuto
 ### Supervising Assistant
 <em>Undergraduate and Postgraduate students, School of Chemistry, 2020.9 – 2022.7</em><br>
 In the School of Chemistry, I assisted my principal supervisor, Prof. Mathew Heal, in supervising BSc and MSc students who conducted their dissertation projects in our research group. My responsibilities included providing guidance and technical support to the students throughout their projects.
+
+### Project Supervision
+<em>UG and PGT students, Schools of Chemistry and GeoSciences, 2020.9 – 2022.7</em><br>
+Beyond my own research, I have also assisted Chemistry BSc and MSc students with their dissertation projects, as well as GeoSciences research students with the design and conducting of their modelling experiments.
+
+### Teaching Assistant and Laboratory Facilitator, Analytical Chemistry
+<em>Undergraduate Course, Department of Chemistry, HKUST, 2019.1 - 2019.4</em><br>
+My responsibilities included giving tutorials and laboratory demonstrations and marking students' course assessments and lab reports. Key topics include titrimetric, electrical, optical and mass spectroscopic methods, analytical separations by chromatography.
+
+### Teaching Assistant, General Chemistry IB
+<em>Undergraduate Course, Department of Chemistry, HKUST, 2018.1 - 2018.4</em><br>
+My responsibilities included giving tutorials and marking students' course assessments. Key topics include atomic structure and periodicity, bonding theories, chemical energy, and properties of gases, liquids and solids.
