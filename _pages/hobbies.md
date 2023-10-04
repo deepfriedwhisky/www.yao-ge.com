@@ -10,5 +10,5 @@ After completing my PhD, I moved to Norway for my new job and discovered cross-c
 <img src='/images/skiing.jpg'><br><br>
 Besides these outdoor activities, I'm also passionate about cooking and baking. I love researching new recipes and trying them out, paying close attention to detail and appreciating the cultural and scientific aspects of different cuisines. Moreover, I am a very social person and use baking as an opportunity to spend time with friends and family, creating a warm and welcoming environment that brings people together.
 <img src='/images/baking.jpg'>
-### <center>Waste your time on good things!</center>
+### <center>"Waste" your time on good things!</center>
 <img src='/images/cooking.jpg'>
