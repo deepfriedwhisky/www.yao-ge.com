@@ -16,10 +16,6 @@ Similar to the teaching activity described above, my primary responsibilities in
 <em>Postgraduate Course, School of Geosciences, University of Edinburgh, 2021.3 - 2021.4</em><br>
 As a teaching assistant in this course, my responsibilities included giving tutorials and marking students' course assessments.<br>
 
-### Supervising Assistant
-<em>Undergraduate and Postgraduate students, School of Chemistry, 2020.9 – 2022.7</em><br>
-In the School of Chemistry, I assisted my principal supervisor, Prof. Mathew Heal, in supervising BSc and MSc students who conducted their dissertation projects in our research group. My responsibilities included providing guidance and technical support to the students throughout their projects.
-
 ### Project Supervision
 <em>UG and PGT students, Schools of Chemistry and GeoSciences, 2020.9 – 2022.7</em><br>
 Beyond my own research, I have also assisted Chemistry BSc and MSc students with their dissertation projects, as well as GeoSciences research students with the design and conducting of their modelling experiments.
