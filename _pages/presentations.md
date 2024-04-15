@@ -11,6 +11,9 @@ author_profile: true
 
 {% endif %}
 
+### <em>A model adaptation for emission evaluation: comparison of modelled versus observed NMVOC compounds in Europe</em>
+<em>3rd April 2024, Invited Seminar by Hazardous Air Pollutants group, U.S. Environmental Protection Agency (US EPA), Webinar</em><br>
+
 ### <em>NMVOC: EMEP network measurements and 2022 campaign data - comparison to the EMEP MSC- W model</em>
 <em>18 September 2023, Oral presentation, <a href="https://actris.no/1year_en.html"> ACTRIS-Norway annual meeting</a>, Oslo</em><br>
 
