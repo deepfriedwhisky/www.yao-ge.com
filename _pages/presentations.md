@@ -11,11 +11,14 @@ author_profile: true
 
 {% endif %}
 
+### <em>Evaluation of modelled versus observed NMVOC compounds at EMEP sites</em>
+<em>6-7 May 2024, Oral presentation, <a href="https://projects.nilu.no/ccc/tfmm/">25th EMEP Task Force on Measurement and Modelling Meeting</a>, Warsaw</em><br>
+
 ### <em>A model adaptation for emission evaluation: comparison of modelled versus observed NMVOC compounds in Europe</em>
 <em>3 April 2024, Invited Seminar by Hazardous Air Pollutants group, U.S. Environmental Protection Agency (US EPA), Webinar</em><br>
 
 ### <em>NMVOC: EMEP network measurements and 2022 campaign data - comparison to the EMEP MSC- W model</em>
-<em>18 September 2023, Oral presentation, <a href="https://actris.no/1year_en.html"> ACTRIS-Norway annual meeting</a>, Oslo</em><br>
+<em>18 September 2023, Oral presentation, <a href="https://actris.no/1year_en.html">ACTRIS-Norway annual meeting</a>, Oslo</em><br>
 
 ### <em>Modelling of atmospheric volatile organic compounds using the EMEP MSC-W model</em>
 <em>10-12 May 2023, Oral presentation, 24th EMEP Task Force on Measurement and Modelling Meeting, Warsaw</em><br>
